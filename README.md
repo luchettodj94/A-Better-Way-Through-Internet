@@ -19,6 +19,7 @@ https://www.amazon.com/alexa-privacy/apd/myad
 Chromium: https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg 
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker
+
 3) Once installed go to the option by clicking the green shield icon in your extension bar and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
 -
 This step will import custom settings and filters.
@@ -30,6 +31,7 @@ https://cdn.discordapp.com/attachments/718196990663590006/1040324107369197661/20
 Chromium: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
+
 5) Same as before click the gray icon in your extension bar, click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 -
 This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Pop up blocker").
