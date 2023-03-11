@@ -29,10 +29,11 @@ Chromium: https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnam
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker
 
-3) Once installed go to the option by clicking the green shield icon in your extension bar and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
-This step will import custom settings and filters.
+3) Once installed go to the option by clicking the green shield icon in your extension bar (make sure is visible) and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
 
 https://app.blackhole.run/#c18ec2cd3314G1xF3j7Qknv5BewNRvuuanvw8seHJyrK
+
+This step will import custom settings and filters.
 
 
 **4) Install Tampermoneky:**
@@ -41,11 +42,11 @@ Chromium: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfj
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
 
-5) Same as before click the gray icon in your extension bar, click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
-This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Pop up blocker").
+5) Same as before click the black/gray icon in your extension bar (make sure it is visible), click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 
 https://app.blackhole.run/#7813c7c9811Q7NWuQGY5tWuPzsQKi6jerUZpLP7vXsVZ
 
+This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Pop up blocker").
 
 **6) Install Privacy Badger**
 
