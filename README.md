@@ -15,6 +15,7 @@ https://www.amazon.com/alexa-privacy/apd/myad
 
 
 **2) Install AdGuard:**
+
 Chromium: https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg 
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker
@@ -25,6 +26,7 @@ https://cdn.discordapp.com/attachments/718196990663590006/1040324107369197661/20
 
 
 **4) Install Tampermoneky:**
+
 Chromium: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
@@ -33,7 +35,8 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
 This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Pop up blocker").
 https://cdn.discordapp.com/attachments/718196990663590006/1040324177200169021/tampermonkey-backup-chrome-2022-11-10T17-53-53-497Z.txt
 
-**6) Install Privacy Badger**
+**6) Install Privacy Badger** 
+
 Chromium: https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
@@ -41,7 +44,8 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
 This step will increase your rate of blocked trackers, is a bit redundant with AdGuard for most of the time but will be useful if for whatever reason you have to disable your adblocker.
 
 
-**7) Install FastForward:**
+**7) Install FastForward:** 
+
 Chromium: https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip
 (to install this extension on chromium browser you have first unpack the .zip file with softwares like Winrar, 7-zip, etc, in the same way unpack the .crx file that you will find inside the .zip file, enable developer option from the extenson page then and load unpacked extension with the folder you previously extract from the .crx file, remember to not delete the extracted folder if you want it to keep working).
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their Github for updates (also valid for installation troubleshoot):
@@ -55,6 +59,7 @@ https://raw.githubusercontent.com/FastForwardTeam/FastForward/main/src/linkverti
 
 
 **8) Install Bypass Paywalls Clean:**
+
 Chromium: https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip
 (to install this extension on chromium browser you have first unpack the .zip file with softwares like Winrar, 7-zip, etc, enable developer option from the extenson page then and load unpacked extension with the folder you previously extract from the .zip file, remember to not delete the extracted folder if you want it to keep working).
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their Github for updates:
@@ -69,6 +74,7 @@ This step will grand you the ability to skip certain paywalls based on daily vie
 
 
 **9) Install Noptcha:**
+
 Chromium: https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/noptcha
@@ -77,6 +83,7 @@ This step will grand you the ability to auto-complete the captcha around the net
 
 
 **10) Install WorkingVPN**
+
 Chromium: https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/
@@ -85,6 +92,7 @@ This step will permit you to use a free vpn service without limit, take note tha
 
 
 **11) Install SponsorBlock for Youtube:**
+
 Chromium: https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/sponsorblock
@@ -93,6 +101,7 @@ This step will flag portions of certain YT videos with sponsor materials and gra
 
 
 **12) Install Return YouTube Dislike:**
+
 Chromium: https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes
@@ -101,6 +110,7 @@ This step will restore the count of dislike on YT videos
 
 
 **13) Install Magic Actions for YouTube**
+
 Chromium: https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif
 -
 Firefox: https://www.chromeactions.com/download/MagicActions_Firefox_Latest.xpi?v=7951
@@ -110,6 +120,7 @@ https://www.chromeactions.com
 
 
 **14) Install Improve Crunchyroll:**
+
 Chromium: https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll
@@ -118,6 +129,7 @@ This step will introduce to Crunchyroll various extra option of customization an
 
 
 **15) Install Rufle:**
+
 Chromium: https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc
 -
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs
