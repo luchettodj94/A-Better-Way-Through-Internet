@@ -69,11 +69,11 @@ https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam
 
-This step will grand you the ability to skip various hosts limit like countdown on file hosts, skip paid shortcut, etc.
 Note: some filters had to be removed by complains like from Linkvertise, you can re-add them by going to the extension setting and copy/paste to the "Custom bypass" the following script:
 
 https://raw.githubusercontent.com/FastForwardTeam/FastForward/main/src/linkvertise.js
 
+This step will grand you the ability to skip various hosts limit like countdown on file hosts, skip paid shortcut, etc.
 
 > **8) Install Bypass Paywalls Clean:**
 
@@ -136,6 +136,7 @@ Chromium: https://chrome.google.com/webstore/detail/magic-actions-for-youtube/ab
 Firefox: https://www.chromeactions.com/download/MagicActions_Firefox_Latest.xpi?v=7951
 
 This step will introduce to YT various extra option of customization, for more info check the link below:
+
 https://www.chromeactions.com
 
 
