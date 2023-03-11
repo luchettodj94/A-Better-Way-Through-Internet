@@ -6,12 +6,18 @@ This is the part 3.5 and probably final tutorial that will create a safe navigat
 
 1) Install your favorite Chromium browser (like, Brave, Ungoogled, Chrome, Vivaldi, etc.) or Firefox.
 Other than all the below steps will be a good point to block any 3rd party cookies from your browser (check your settings and search for Privacy and Security) and block any connection that not come with https.
-Furthermore I can recommend you to use https://etsi.me/ as your default search engine based on SearXNG, here below you can find the "url query":
+
+Furthermore I can recommend you to use https://etsi.me as your default search engine based on SearXNG, here below you can find the "url query":
 https://etsi.me/search?q=%s
+Alternatively https://neeva.com and its "ulr query":
+https://neeva.com/search?q=%s
+
 Lastly if you still want to use your Google account (chrome, yt, drive, etc.) make sure to check the link below and disable everything you are not comfortable with:
 https://myaccount.google.com/data-and-privacy
 Same goes with Amazon services:
 https://www.amazon.com/alexa-privacy/apd/myad
+If you live in the EU make sure also to check those:
+https://www.youronlinechoices.com
 
 
 **2) Install AdGuard:**
@@ -23,7 +29,7 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker
 3) Once installed go to the option by clicking the green shield icon in your extension bar and click "Import settings" (General Settings) and add the attachment below (adg_ext...).
 -
 This step will import custom settings and filters.
-https://cdn.discordapp.com/attachments/718196990663590006/1040324107369197661/20221110_185318_adg_ext_settings_4.1.39.json
+https://app.blackhole.run/#c18ec2cd3314G1xF3j7Qknv5BewNRvuuanvw8seHJyrK
 
 
 **4) Install Tampermoneky:**
@@ -35,7 +41,8 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
 5) Same as before click the gray icon in your extension bar, click "Control panel" and go to "Utility", click "Import" and add the attachment below (tampermonkey-backup...).
 -
 This step will import various user scripts such a "Pop up blocker" and few irrelevant but useful script (if you are not interested you can leave only the "Pop up blocker").
-https://cdn.discordapp.com/attachments/718196990663590006/1040324177200169021/tampermonkey-backup-chrome-2022-11-10T17-53-53-497Z.txt
+https://app.blackhole.run/#7813c7c9811Q7NWuQGY5tWuPzsQKi6jerUZpLP7vXsVZ
+
 
 **6) Install Privacy Badger** 
 
