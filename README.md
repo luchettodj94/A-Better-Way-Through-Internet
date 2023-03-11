@@ -8,6 +8,7 @@ This is the part 3.5 and probably final tutorial that will create a safe navigat
 Other than all the below steps will be a good point to block any 3rd party cookies from your browser (check your settings and search for Privacy and Security) and block any connection that not come with https.
 
 Furthermore I can recommend you to use https://etsi.me as your default search engine based on SearXNG, 
+
 here you can find the "url query": https://etsi.me/search?q=%s
 
 Alternatively https://neeva.com and its "ulr query": https://neeva.com/search?q=%s
