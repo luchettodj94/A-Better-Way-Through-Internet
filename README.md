@@ -61,6 +61,7 @@ This step will increase your rate of blocked trackers, is a bit redundant with A
 > **7) Install FastForward:**
 
 Chromium: https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip
+
 (to install this extension on chromium browser you have first unpack the .zip file with softwares like Winrar, 7-zip, etc, in the same way unpack the .crx file that you will find inside the .zip file, enable developer option from the extenson page then and load unpacked extension with the folder you previously extract from the .crx file, remember to not delete the extracted folder if you want it to keep working).
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their Github for updates (also valid for installation troubleshoot):
 
@@ -77,10 +78,14 @@ https://raw.githubusercontent.com/FastForwardTeam/FastForward/main/src/linkverti
 > **8) Install Bypass Paywalls Clean:**
 
 Chromium: https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip
+
 (to install this extension on chromium browser you have first unpack the .zip file with softwares like Winrar, 7-zip, etc, enable developer option from the extenson page then and load unpacked extension with the folder you previously extract from the .zip file, remember to not delete the extracted folder if you want it to keep working).
 Note: unpacked extension not have the ability to auto-update themself, once in a while check their Github for updates:
+
 https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234
+
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean
+
 This step will grand you the ability to skip certain paywalls based on daily views limit and/or similar issues.
 
 
@@ -92,6 +97,7 @@ All the steps below are totally optional but recommended for a better experience
 Chromium: https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/noptcha
+
 This step will grand you the ability to auto-complete the captcha around the net automatically, you can cutomize the behavior under the extension options.
 
 
@@ -100,6 +106,7 @@ This step will grand you the ability to auto-complete the captcha around the net
 Chromium: https://chrome.google.com/webstore/detail/workingvpn-a-free-vpn-tha/mhngpdlhojliikfknhfaglpnddniijfh
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/workingvpn-the-vpn-that-works/
+
 This step will permit you to use a free vpn service without limit, take note that this is not the fastest nor the most secure but will work.
 
 > **11) Install SponsorBlock for Youtube:**
@@ -108,6 +115,7 @@ This step will permit you to use a free vpn service without limit, take note tha
 Chromium: https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/sponsorblock
+
 This step will flag portions of certain YT videos with sponsor materials and grand you the ability to skip them automatically.
 
 
@@ -117,6 +125,7 @@ This step will flag portions of certain YT videos with sponsor materials and gra
 Chromium: https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes
+
 This step will restore the count of dislike on YT videos
 
 
@@ -125,6 +134,7 @@ This step will restore the count of dislike on YT videos
 Chromium: https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif
 
 Firefox: https://www.chromeactions.com/download/MagicActions_Firefox_Latest.xpi?v=7951
+
 This step will introduce to YT various extra option of customization, for more info check the link below:
 https://www.chromeactions.com
 
@@ -134,6 +144,7 @@ https://www.chromeactions.com
 Chromium: https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll
+
 This step will introduce to Crunchyroll various extra option of customization and unlock some of premium features like 1080p view.
 
 
@@ -142,6 +153,7 @@ This step will introduce to Crunchyroll various extra option of customization an
 Chromium: https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs
+
 This step will restore the possibility to play flash content on your browser.
 
 
