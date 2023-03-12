@@ -69,7 +69,7 @@ https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam
 
-Note: some filters had to be removed by complains like from Linkvertise, you can re-add them by going to the extension setting and copy/paste to the "Custom bypass" the following script:
+Note: some filters had to be removed by complains like from Linkvertise, you can re-add them by going to the extension setting (blue icon) and copy/paste to the "Custom bypass" the following script:
 
 https://raw.githubusercontent.com/FastForwardTeam/FastForward/main/src/linkvertise.js
 
