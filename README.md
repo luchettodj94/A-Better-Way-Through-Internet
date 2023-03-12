@@ -1,5 +1,5 @@
 # A-Better-Way-Through-Internet
-Internet without harassmentt by ads company!
+Internet without harassment by ads company!
 
 
 This is the part 3.5 and probably final tutorial that will create a safe navigation with no ads, privacy focus and no annoying stuff like cookies warning, it will include some part of the older tuto but lighter in ram consumption and with some more filters.
