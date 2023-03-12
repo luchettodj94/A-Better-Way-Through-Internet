@@ -12,9 +12,9 @@ Furthermore I can recommend you to use https://etsi.me as your default search en
 
 here you can find the "url query": https://etsi.me/search?q=%s
 
-Alternatively https://neeva.com and its "ulr query": https://neeva.com/search?q=%s
+Alternatively https://neeva.com (no need to sign up) and its "ulr query": https://neeva.com/search?q=%s
 
-Lastly if you still want to use your Google account (chrome, yt, drive, etc.) make sure to check the link below and disable everything you are not comfortable with:
+Lastly if you still want to use your Google account (chrome, yt, drive, etc.) make sure to check the following link and disable everything you are not comfortable with:
 https://myaccount.google.com/data-and-privacy
 
 Same goes with Amazon services:
